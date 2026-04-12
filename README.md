@@ -1,4 +1,4 @@
-BrightTV Viewership Analytics
+# BrightTV Viewership Analytics
 ### Overview of the Case Study
 
 This project presents an end-to-end analysis of BrightTV’s user profiles and viewership data to support the CEO’s objective of growing the subscription base.
