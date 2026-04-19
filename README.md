@@ -71,6 +71,7 @@ Tools used:
 * Power BI
 * Microsoft Excel (Pivot Tables & Charts)
 * GoogleLooker Studio
+* loveable https://shanay.lovable.app/
 
 ### Visualized:
 
